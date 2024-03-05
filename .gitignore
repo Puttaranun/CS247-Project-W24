@@ -1,3 +1,6 @@
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints
 ./person_test.npy
 ./person_train_valid.npy
 ./X_test.npy
